@@ -1,4 +1,3 @@
-import React from 'react';
 import ResponsiveHeroBanner from './components/ResponsiveHeroBanner';
 import ProblemSection from './components/ProblemSection';
 import SolutionSection from './components/SolutionSection';

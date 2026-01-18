@@ -1,5 +1,3 @@
-import React from 'react';
-
 const FinalCTASection = () => {
     return (
         <section id="book-call" className="py-24 text-center relative overflow-hidden">

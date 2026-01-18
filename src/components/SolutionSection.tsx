@@ -1,5 +1,3 @@
-import React from 'react';
-
 const SolutionSection = () => {
     return (
         <section className="py-24 relative overflow-hidden">
